@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 -
 )
 
-
-![Space Shooter Game](https://raw.githubusercontent.com/ferminmg/gh-space-shooter/main/game.gif)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ferminmg/gh-space-shooter/main/game.gif" width="600" />
+</p>
