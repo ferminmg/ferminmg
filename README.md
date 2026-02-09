@@ -1,23 +1,8 @@
-<!--
-**ferminmg/ferminmg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<img
+  src="https://raw.githubusercontent.com/ferminmg/gh-space-shooter/main/game.gif"
+  style="max-width: 100%; height: auto;"
+/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--
-)
-
--->
-
-<h1 align="center">🚀 Space Shooter</h1>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ferminmg/gh-space-shooter/main/game.gif" width="700" />
-</p>
+</div>
