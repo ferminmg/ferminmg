@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 -
 )
 
+-->
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/ferminmg/gh-space-shooter/main/game.gif" width="600" />
 </p>
