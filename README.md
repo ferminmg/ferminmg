@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 
 -->
 
+<h1 align="center">🚀 Space Shooter</h1>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ferminmg/gh-space-shooter/main/game.gif" width="600" />
+  <img src="https://raw.githubusercontent.com/ferminmg/gh-space-shooter/main/game.gif" width="700" />
 </p>
