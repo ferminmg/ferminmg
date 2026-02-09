@@ -1,10 +1,5 @@
-<br /><br /><br />
+<h2 align="center"> </h2>
 
-<div align="center">
-
-<img
-  src="https://raw.githubusercontent.com/ferminmg/gh-space-shooter/main/game.gif"
-  style="max-width: 100%; "
-/>
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ferminmg/gh-space-shooter/main/game.gif"  />
+</p>
